@@ -19,3 +19,8 @@ This was made for the Fallout hackathon.
 
 ## PCB
 <img width="682" height="421" alt="image" src="https://github.com/user-attachments/assets/1d9c218a-76e7-497d-86ec-5f2f1332c211" />
+
+
+## Slack Username
+
+Hiral
